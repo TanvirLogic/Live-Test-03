@@ -9,8 +9,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // The JSON string is defined here for simplicity.
-    // In a real app, this would likely come from a file or network request.
     const String jsonData = '''
     {
       "recipes": [
